@@ -1,0 +1,7 @@
+Correr no Eclipese
+
+alterar
+
+Project > Properties > C/C++Build > Setting > MinGW C++ Linker
+
+Em command Line Patterns adicionar no final   -lws2_32

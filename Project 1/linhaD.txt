@@ -1,0 +1,64 @@
+52
+Hospital Sao Joao
+594
+674
+53
+IPO
+570
+697
+54
+Polo Universitario
+580
+744
+55
+Salgueiros
+593
+795
+56
+Combatentes
+577
+828
+57
+Marques
+554
+846
+58
+Faria Guimaraes
+514
+876
+4
+
+
+
+59
+Aliados
+477
+932
+60
+Sao Bento
+478
+965
+61
+Jardim do Moro
+506
+1025
+62
+General Torres
+519
+1048
+63
+Camara Gaia
+528
+1068
+64
+Joao de Deus
+532
+1087
+65
+D Joao I
+529
+1110
+66
+Santo Ovidio
+528
+1133
