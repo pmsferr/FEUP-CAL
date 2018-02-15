@@ -1,0 +1,88 @@
+0
+Estadio do Dragao
+658
+870
+1
+Campanha
+633
+940
+2
+Heroismo
+591
+971
+3
+Campo 24 de Agosto
+547
+957
+4
+Trindade
+488
+903
+5
+Lapa
+469
+879
+6
+Carolina Micaelis
+440
+855
+7
+Casa da Musica
+418
+830
+8
+Francos
+398
+810
+9
+Ramalde
+369
+776
+10
+Viso
+353
+745
+11
+Sete Bicas
+344
+700
+12
+Senhora da Hora
+344
+662
+13
+Vasco da Gama
+309
+645
+14
+Estadio do Mar
+291
+683
+15
+Pedro Hispano
+276
+726
+16
+Parque Real
+251
+739
+17
+Camara Matosinhos
+216
+736
+18
+Matosinhos Sul
+189
+738
+19
+Brito Capelo
+166
+711
+20
+Mercado
+177
+680
+21
+Senhor Matosinhos
+204
+663
